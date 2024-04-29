@@ -15,7 +15,7 @@ hero:
       link: /study/百度-interview-1
     - theme: alt
       text: 生活琐事
-      link: /life
+      link: /life/four
 
 features:
   - icon: 💻
