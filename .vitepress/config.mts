@@ -11,7 +11,12 @@ export default defineConfig({
       // { text: '生活', link: '/markdown-examples' }
       {
         text: '生活',
-        items: [{
+        items: [
+        //   {
+        //   text: "关于我",
+        //   link:"aboutMe"
+        // },
+          {
           text: "荒海拾贝",
           link:"life"
         }, {
@@ -48,7 +53,10 @@ export default defineConfig({
         },
       ],
       'life': [
-        { text: '四月', link: 'life/life' },
+        { text: '4月30日', link: 'life/four-two' },
+      
+        { text: '4月29日', link: 'life/four' },
+      
       ]
     },
 

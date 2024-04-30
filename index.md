@@ -11,11 +11,11 @@ hero:
     alt: VitePress # 图片的alt文字
   actions:
     - theme: brand
-      text: 面经和技术文章
+      text: 面经和笔记
       link: /study/百度-interview-1
     - theme: alt
-      text: 生活琐事
-      link: /life/four
+      text: 琐碎生活
+      link: /life/four-two
 
 features:
   - icon: 💻
