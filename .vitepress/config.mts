@@ -7,7 +7,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: '面经', link: '/study/百度-interview-1' },
+      { text: '面经', link: '/study' },
       // { text: '生活', link: '/markdown-examples' }
       {
         text: '生活',
@@ -41,7 +41,8 @@ export default defineConfig({
           items: [
             { text: "百度前端实习一面", link: "study/百度-interview-1" },
             {text:"美团前端二面",link:"study/美团前端二面"},
-            {text:"美团前端实习一面",link:"study/美团-intervew-1"},        
+            { text: "美团前端实习一面", link: "study/美团-intervew-1" }, 
+            {text:"快手一面",link:"study/快手一面"},
             { text: "云智前端实习一面", link: "study/云智-interview-1" },
             {text:"云智前端实习二面",link:"study/云智-interview-2"},
             { text: "腾讯QQ前端实习一面", link: "study/腾讯QQ-interview" },
@@ -53,9 +54,10 @@ export default defineConfig({
         },
       ],
       'life': [
-        { text: '4月30日', link: 'life/four-two' },
+      {text:"5.7",link:"life/5.1"},
+        { text: '4.30', link: 'life/four-two' },
       
-        { text: '4月29日', link: 'life/four' },
+        { text: '4.29', link: 'life/four' },
       
       ]
     },
