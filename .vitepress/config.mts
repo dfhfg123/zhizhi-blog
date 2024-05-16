@@ -39,6 +39,7 @@ export default defineConfig({
         {
           text: '面经',
           items: [
+            {text:"滴滴二面",link:"study/滴滴二面"},
             { text: "百度前端实习一面", link: "study/百度-interview-1" },
             {text:"美团前端二面",link:"study/美团前端二面"},
             { text: "美团前端实习一面", link: "study/美团-intervew-1" }, 
@@ -54,10 +55,11 @@ export default defineConfig({
         },
       ],
       'life': [
-      {text:"5.7",link:"life/5.1"},
-        { text: '4.30', link: 'life/four-two' },
+      {text:"5.13",link:"/life/5.13"},
+      {text:"5.7",link:"/life/5.1"},
+        { text: '4.30', link: '/life/four-two' },
       
-        { text: '4.29', link: 'life/four' },
+        { text: '4.29', link: '/life/four' },
       
       ]
     },

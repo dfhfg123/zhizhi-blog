@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a4 as _}from"./chunks/framework.DnsdDQl9.js";const m=JSON.parse('{"title":"快手一面","description":"","frontmatter":{},"headers":[],"relativePath":"study/快手一面.md","filePath":"study/快手一面.md"}'),p={name:"study/快手一面.md"},s=_("",10),o=[s];function r(c,n,d,i,l,h){return a(),t("div",null,o)}const f=e(p,[["render",r]]);export{m as __pageData,f as default};
