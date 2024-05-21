@@ -11,17 +11,17 @@ hero:
     alt: VitePress # 图片的alt文字
   actions:
     - theme: brand
-      text: 面经和笔记
-      link: /study/百度-interview-1
+      text: 学习笔记
+      link: /knowLedge/单元测试/单元测试.md
     - theme: alt
       text: 琐碎生活
       link: /life/5.13
 
 features:
   - icon: 💻
-    title: 荒海拾贝
-    details: 主要分享面试题面经，平时学习记录的技术文章
-    link: /study
+    title: 面经
+    details: 记录一些面试题和复盘
+    link: /study/滴滴二面
   - icon: 🏢
     title: 虚室生白
     details: 科名之外另有人生，朝廷之外另有立脚地

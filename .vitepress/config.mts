@@ -61,7 +61,26 @@ export default defineConfig({
       
         { text: '4.29', link: '/life/four' },
       
+      ],
+      'knowLedge': [
+        {
+          text: "单元测试",
+          items: [
+            { text: "前言", link: "knowLedge/单元测试/单元测试" },
+            {text:"单元测试1",link:"knowLedge/单元测试/单元测试1"},
+            {text:"单元测试2",link:"knowLedge/单元测试/单元测试2"},
+            {text:"单元测试3",link:"knowLedge/单元测试/单元测试3"},
+          ]
+        }, {
+          text: "常见面试题",
+          items: [
+            {text:"面试题1",link:"knowLedge/常见面试题/面试题1"},
+            {text:"面试题2",link:"knowLedge/常见面试题/面试题2"},
+            {text:"面试题3",link:"knowLedge/常见面试题/面试题3"},
+          ]
+        }
       ]
+      
     },
 
     socialLinks: [
