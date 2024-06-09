@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.DnsdDQl9.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"knowLedge/webpack/模块化.md","filePath":"knowLedge/webpack/模块化.md"}'),o={name:"knowLedge/webpack/模块化.md"};function c(n,r,s,p,_,d){return a(),t("div")}const f=e(o,[["render",c]]);export{m as __pageData,f as default};

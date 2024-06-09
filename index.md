@@ -11,8 +11,8 @@ hero:
     alt: VitePress # 图片的alt文字
   actions:
     - theme: brand
-      text: 学习笔记
-      link: /knowLedge/单元测试/单元测试.md
+      text: 面经和笔记
+      link: /study/滴滴二面
     - theme: alt
       text: 琐碎生活
       link: /life/5.13
