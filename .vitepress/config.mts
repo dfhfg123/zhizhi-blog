@@ -55,6 +55,7 @@ export default defineConfig({
         },
       ],
       'life': [
+      {text:"6.16",link:"/life/6.16"},
       {text:"5.13",link:"/life/5.13"},
       {text:"5.7",link:"/life/5.1"},
         { text: '4.30', link: '/life/four-two' },
